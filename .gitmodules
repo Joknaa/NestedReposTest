@@ -1,0 +1,3 @@
+[submodule "UnityExtensions"]
+	path = UnityExtensions
+	url = https://github.com/Joknaa/UnityExtensions
